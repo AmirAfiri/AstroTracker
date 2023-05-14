@@ -3,7 +3,7 @@ AstroTracker is a star tracker using an Arduino chip to command a 3 axis servo s
 
 It takes as input the location of the system as coordinates, the target star index and the tracking duration.
 
-The database of stellar objects is provided by the HYG Database version 3.0 provided by David Nash. (https://github.com/astronexus/HYG-Database)
+We are using the HYG Database version 3.0 provided by David Nash. (https://github.com/astronexus/HYG-Database)
 
 
 List of components :
